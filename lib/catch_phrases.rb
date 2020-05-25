@@ -13,6 +13,6 @@ def link
   puts phrase
 end
 
-def all_phrases(character)
+def all_phrases character
   character
 end
